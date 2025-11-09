@@ -21,7 +21,3 @@ El menú guía las operaciones. Se puede cargar el CSV inicial, operar sobre los
 - Ordenamientos: por nombre/población/superficie asc/desc.
 - Estadísticas: mayor/menor población, promedios, cantidad de países por continente.
 
-## Participación de los integrantes
-- Diseño y flujo general: 50%  
-- Implementación y validación: 50%
-
